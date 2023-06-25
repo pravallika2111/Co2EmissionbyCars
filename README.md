@@ -1,4 +1,4 @@
-# Co2EmissionbyCars
+# Co2EmissionusingML
 
 **Abstract**
 > In most developing countries, the increasing rate of Carbon emissions is considered a major cause of concern. India is leading in terms of CO2 emissions as compared to other countries. The study used descriptive methods. It focuses on finding the main potential parameters that affect the concentration of CO2 emissions based on energy resources. To get predictions here machine learning algorithms will be applied.
@@ -13,3 +13,4 @@
 
 **FEATURES AND FUNCTIONALITIES**
 > The features and functionalities of CO2 emission prediction using machine learning can vary depending on the specific implementation and goals of the project. However, machine learning often incorporates some common features and functionalities into CO2 emission prediction systems.
+
