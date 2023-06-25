@@ -13,5 +13,3 @@
 
 **FEATURES AND FUNCTIONALITIES**
 > The features and functionalities of CO2 emission prediction using machine learning can vary depending on the specific implementation and goals of the project. However, machine learning often incorporates some common features and functionalities into CO2 emission prediction systems.
-
-
